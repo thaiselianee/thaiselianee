@@ -3,8 +3,7 @@
   src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=550&lines=Desenvolvedora+Full+Stack+e+Estudante" 
 />
 
-Me chamo Thais Eliane, tenho 19 anos e sou natural de São Paulo e falo dois idiomas fluentes. Concluí o ensino medio em 2023, e no mesmo ano conclui o curso técnico em informática. Atualmente, estou cursando Ciencia da Computação no Centro Universitario Senac. Sou apaixonada por tecnologia e quero adquirir mais conhecimento na area.
-
+Olá! Meu nome e Thais Eliane, tenho 19 anos e sou estudante do terceiro semestre de Bacharelo em Ciencia da Computação no Senac. Procuro de oportunidades de estagio onde eu possa aprender e crescer como profissional.
 
 ---
 
